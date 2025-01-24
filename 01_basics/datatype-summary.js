@@ -25,3 +25,9 @@ const myFunction= function(){
 }
 
 console.log(typeof bigNumber);
+
+
+// Stack is used for primitive datatypes whereas heap is used for nonprimitive datatypes.
+
+// when primitive datatype is used, it assigns a copy but when nonprimtiive datatypes is used it directly changes the reference of the datatype.
+
